@@ -15,14 +15,14 @@ Blueprint sur UE5
 - Animation de la main du personnage avec le Chronocanon.
 
 # Équipe:
-Jeremy (Sahurows) : Programmeur, animation, sound design, modélisation 3D, vfx
+Jeremy (Sahurows) : Programmeur, animation, sound design, modélisation 3D, VFX
 
 Loïc : Producteur (Game designer), programmeur
 
 Oliver : Programmeur
 
-Tao: level design, level art, éclairage, vfx
+Tao: Level design, level art, éclairage, VFX
 
-Quentin: level design, level art
+Quentin: Level design, level art, montage du trailer
 
-Alexei : level art, level design, exploration des matériaux
+Alexei : Level art, level design, assets, matériaux, cinématique
