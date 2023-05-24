@@ -8,11 +8,11 @@ Unreal Engine 5
 Blueprint sur UE5
 
 # Ce que j'ai fait:
-- La programmation et modification de la modélisation de la plaque de pression et du bouton
-- La programmation de la porte
-- Le sound design du jeu
-- Le VFX des lasers des pièges et le VFX de la suppression et du tire du Chronocanon avec Niagara.
-- L'animation de la main du personnage avec le Chronocanon.
+- Programmation et modification de la modélisation de la plaque de pression et du bouton
+- Programmation de la porte
+- Sound design du jeu
+- VFX des lasers des pièges et le VFX de la suppression et du tire du Chronocanon avec Niagara.
+- Animation de la main du personnage avec le Chronocanon.
 
 # Équipe:
 Jeremy (Sahurows) : Programmeur, animation, sound design, modélisation 3D, vfx
