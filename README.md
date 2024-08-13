@@ -29,3 +29,4 @@ Tao: Level design, level art, éclairage, VFX
 Quentin: Level design, level art, montage du trailer
 
 Alexei : Level art, level design, assets, matériaux, cinématique
+
